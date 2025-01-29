@@ -16,8 +16,8 @@ This repository contains the following:
 **Screening Data**
 
 - **_Dataset Files:_**
-- `Dataset file for 1st model/`: This folder contains dataset compounds from different screened libraries in .xlsx format, used for the first model preparation.
-- `Dataset file for 2nd model/`: This folder contains dataset compounds from different screened libraries in .xlsx format, used for the second model preparation.
+- `Dataset file for 1st model.zip/`: This zip folder contains dataset compounds from different screened libraries in .xlsx format, used for the first model preparation.
+- `Dataset file for 2nd model.zip/`: This zip folder contains dataset compounds from different screened libraries in .xlsx format, used for the second model preparation.
   
 - `all dataset molecules for 1st model.sdf`: All the dataset molecules in .sdf format, used for the first model preparation.
 - `all dataset molecules for the second model.sdf`: All the dataset molecules in .sdf format, were used for the second model preparation.
